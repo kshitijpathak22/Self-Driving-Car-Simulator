@@ -1,9 +1,20 @@
-#Self-Driving-Car-Simulator
+# Self-Driving-Car-Simulator
 
-Self Driving Car Simulator -> Vanilla JS
+Self Driving Car Simulator built with Vanilla JS.
 
-->Clone the repository on your system.
+## Getting Started
 
-->Run index.html on chrome. ->To change number of cars, go to main.js- line 7 and edit n= . ->To control the car yourself, go to main.js- line 39 and change "AI" to "MAIN" and in line 7 edit n= 1.
+1. **Clone the repository** on your local system.
+2. **Run `index.html`** in Google Chrome to start the simulator.
 
-->To view the Performance Statistics, run performance.html on chrome (or default browser).
+### Customization Options
+
+- **Change Number of Cars**:  
+  Open `main.js` and go to **line 7**. Update the value of `n` to the desired number of cars.
+  
+- **Manual Control**:  
+  If you want to control the car manually, go to **line 39** in `main.js` and change `"AI"` to `"MAIN"`. Additionally, set `n = 1` on **line 7** to ensure only one car is on the track.
+
+### Viewing Performance Statistics
+
+T
