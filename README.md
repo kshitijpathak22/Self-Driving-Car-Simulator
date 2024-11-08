@@ -17,4 +17,8 @@ Self Driving Car Simulator built with Vanilla JS.
 
 ### Viewing Performance Statistics
 
-T
+To view performance statistics, run `performance.html` in Chrome or your default browser.
+
+---
+
+Happy Driving!
